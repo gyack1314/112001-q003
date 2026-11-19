@@ -1,0 +1,5 @@
+{"continuity_verified": false, "effective_date": "2026-05-01", "from_site_id": "S200", "rel_id": "REL-001", "rel_type": "relocate", "source_event_id": "EV-012", "to_site_id": "S200"}
+{"continuity_verified": true, "effective_date": "2026-05-01", "from_site_id": "S350", "rel_id": "REL-002", "rel_type": "merge", "source_event_id": "EV-013", "to_site_id": "S360"}
+{"continuity_verified": false, "effective_date": "2026-06-01", "from_site_id": "S300", "rel_id": "REL-003", "rel_type": "split", "source_event_id": "EV-014", "to_site_id": "S301"}
+{"continuity_verified": false, "effective_date": "2026-06-01", "from_site_id": "S300", "rel_id": "REL-004", "rel_type": "split", "source_event_id": "EV-014", "to_site_id": "S302"}
+{"continuity_verified": false, "effective_date": "2026-08-01", "from_site_id": "S401", "rel_id": "REL-005", "rel_type": "merge", "source_event_id": "EV-015", "to_site_id": "S400"}

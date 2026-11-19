@@ -1,0 +1,3 @@
+{"boundary_version_id": "R1@v1", "polygon": [[26.06, 119.28], [26.06, 119.34], [26.11, 119.34], [26.11, 119.28]], "region_id": "R1", "region_name": "高新东区", "valid_from": "2026-01-01", "valid_to": "2026-08-01", "version": "v1"}
+{"boundary_version_id": "R1@v2", "polygon": [[26.06, 119.28], [26.06, 119.4], [26.11, 119.4], [26.11, 119.28]], "region_id": "R1", "region_name": "高新东区", "valid_from": "2026-08-01", "valid_to": null, "version": "v2"}
+{"boundary_version_id": "R2@v1", "polygon": [[26.12, 119.28], [26.12, 119.34], [26.17, 119.34], [26.17, 119.28]], "region_id": "R2", "region_name": "滨湖西区", "valid_from": "2026-01-01", "valid_to": null, "version": "v1"}

@@ -10,3 +10,8 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 管道生成的仓湖产物（可由 scripts/run_demo.py 确定性重建）
+data/raw/
+data/staging/
+data/marts/

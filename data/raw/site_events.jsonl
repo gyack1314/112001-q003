@@ -1,0 +1,16 @@
+{"effective_date": "2026-01-05", "event_id": "EV-001", "location": [26.08, 119.3], "site_id": "S100", "standard": "4G", "type": "commission"}
+{"effective_date": "2026-01-05", "event_id": "EV-002", "location": [26.08, 119.3], "site_id": "S101", "standard": "5G", "type": "commission"}
+{"effective_date": "2026-01-05", "event_id": "EV-003", "location": [26.08, 119.3], "site_id": "S102", "standard": "4G", "type": "commission"}
+{"effective_date": "2026-01-10", "event_id": "EV-004", "location": [26.095, 119.315], "site_id": "S200", "standard": "4G", "type": "commission"}
+{"effective_date": "2026-01-15", "event_id": "EV-005", "location": [26.07, 119.31], "site_id": "S300", "standard": "5G", "type": "commission"}
+{"effective_date": "2026-01-18", "event_id": "EV-006", "location": [26.14, 119.32], "site_id": "S350", "standard": "5G", "type": "commission"}
+{"effective_date": "2026-01-18", "event_id": "EV-007", "location": [26.14, 119.3205], "site_id": "S360", "standard": "5G", "type": "commission"}
+{"effective_date": "2026-01-20", "event_id": "EV-008", "location": [26.13, 119.3], "site_id": "S400", "standard": "4G", "type": "commission"}
+{"effective_date": "2026-01-25", "event_id": "EV-009", "location": [26.15, 119.31], "site_id": "S600", "standard": "4G", "type": "commission"}
+{"effective_date": "2026-02-01", "event_id": "EV-010", "location": [26.131, 119.302], "site_id": "S401", "standard": "4G", "type": "commission"}
+{"effective_date": "2026-03-01", "event_id": "EV-011", "location": [26.08, 119.37], "site_id": "S500", "standard": "5G", "type": "commission"}
+{"effective_date": "2026-05-01", "event_id": "EV-012", "new_location": [26.1, 119.325], "site_id": "S200", "type": "relocate"}
+{"continuity_verified": true, "effective_date": "2026-05-01", "event_id": "EV-013", "site_id": "S350", "target_site_id": "S360", "type": "merge"}
+{"effective_date": "2026-06-01", "event_id": "EV-014", "new_sites": [{"location": [26.07, 119.31], "site_id": "S301", "standard": "5G"}, {"location": [26.07, 119.313], "site_id": "S302", "standard": "5G"}], "site_id": "S300", "type": "split"}
+{"continuity_verified": false, "effective_date": "2026-08-01", "event_id": "EV-015", "site_id": "S401", "target_site_id": "S400", "type": "merge"}
+{"effective_date": "2026-09-01", "event_id": "EV-016", "site_id": "S600", "type": "decommission"}
