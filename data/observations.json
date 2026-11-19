@@ -1,0 +1,5 @@
+[
+  {"site_code": "S-17", "captured_at": "2026-02-03T09:00:00", "location": [26.08, 119.30], "standard": "5G", "covered": true},
+  {"site_code": "S-17B", "captured_at": "2026-02-03T09:05:00", "location": [26.08, 119.30], "standard": "5G", "covered": true},
+  {"site_code": "S-19", "captured_at": "2026-02-03T09:10:00", "location": [26.10, 119.32], "standard": "4G", "covered": false}
+]
